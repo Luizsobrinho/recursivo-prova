@@ -1,0 +1,7 @@
+C:\Users\luizs\source\repos\Recursivo\Recursivo\bin\Debug\Recursivo.exe.config
+C:\Users\luizs\source\repos\Recursivo\Recursivo\bin\Debug\Recursivo.exe
+C:\Users\luizs\source\repos\Recursivo\Recursivo\bin\Debug\Recursivo.pdb
+C:\Users\luizs\source\repos\Recursivo\Recursivo\obj\Debug\Recursivo.csprojAssemblyReference.cache
+C:\Users\luizs\source\repos\Recursivo\Recursivo\obj\Debug\Recursivo.csproj.CoreCompileInputs.cache
+C:\Users\luizs\source\repos\Recursivo\Recursivo\obj\Debug\Recursivo.exe
+C:\Users\luizs\source\repos\Recursivo\Recursivo\obj\Debug\Recursivo.pdb

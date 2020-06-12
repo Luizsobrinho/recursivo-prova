@@ -1,0 +1,7 @@
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\bin\Debug\ReverterLista.exe.config
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\bin\Debug\ReverterLista.exe
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\bin\Debug\ReverterLista.pdb
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\obj\Debug\ReverterLista.csprojAssemblyReference.cache
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\obj\Debug\ReverterLista.csproj.CoreCompileInputs.cache
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\obj\Debug\ReverterLista.exe
+C:\Users\luizs\source\repos\Recursivo\ReverterLista\obj\Debug\ReverterLista.pdb
